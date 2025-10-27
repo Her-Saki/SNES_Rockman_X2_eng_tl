@@ -1,2 +1,2 @@
-# Rockmania_X2
-Translation and customization patches for Rockman X2, including VWF engine. Free to use, just give credit.
+# Rockman_X2 English translation
+English translation patch for Rockman X2. Free to use and distribute, just give credit.
